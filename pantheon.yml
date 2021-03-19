@@ -4,5 +4,5 @@ edge_site:
     - path: .
       generator: 'gatsby'
       builder: 'gatsby'
-      build_cmd: ['build']
+      build_cmd: ['run', 'build']
       default_branch: 'main'
